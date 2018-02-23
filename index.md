@@ -499,5 +499,3 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     </div>
   </div>
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
-
-{% comment %}
